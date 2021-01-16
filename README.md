@@ -11,7 +11,7 @@
 
 
 <p align ="center">
-    <img src = 'https://www.techrbun.com/wp-content/uploads/2020/03/socks-min-2-1024x297.png' width = "450">
+    <img src = 'https://s3.amazonaws.com/hr-challenge-images/25168/1474122392-c7b9097430-sock.png' width = "450">
 </p>
 
 
