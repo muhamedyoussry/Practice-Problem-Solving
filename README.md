@@ -68,3 +68,17 @@
 <p align ="center">
     <img src = 'https://miro.medium.com/max/4242/1*ry2jF_cpB0WjH2fNCA8nZg.jpeg' width = "400">
 </p>
+
+
+<p>&nbsp;</p>
+
+### **Grading Students**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/grading/problem)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Birthday%20Cake%20Candles.cpp)
+
+
+<p align ="center">
+    <img src = 'https://s3.amazonaws.com/hr-challenge-images/0/1484768684-54439977a1-curving2.png'>
+</p>
