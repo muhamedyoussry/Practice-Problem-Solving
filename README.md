@@ -54,3 +54,17 @@
 <p align ="center">
     <img src = 'https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png' width = "400">
 </p>
+
+
+<p>&nbsp;</p>
+
+### **Birthday Cake Candles**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Compare%20the%20Triplets.cpp)
+
+
+<p align ="center">
+    <img src = 'https://miro.medium.com/max/4242/1*ry2jF_cpB0WjH2fNCA8nZg.jpeg' width = "400">
+</p>
