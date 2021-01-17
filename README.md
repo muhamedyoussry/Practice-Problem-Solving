@@ -48,9 +48,9 @@
 
 - [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
 
-- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Jumping%20on%20the%20Clouds.cpp)
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Compare%20the%20Triplets.cpp)
 
 
 <p align ="center">
-    <img src = 'https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png'>
+    <img src = 'https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png' width = "400">
 </p>
