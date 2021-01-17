@@ -1,4 +1,4 @@
-# _Practice Problem Solving_
+# **Practice Problem Solving**
 
 
 <p>&nbsp;</p>
@@ -62,7 +62,7 @@
 
 - [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
 
-- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Compare%20the%20Triplets.cpp)
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Birthday%20Cake%20Candles.cpp)
 
 
 <p align ="center">
