@@ -76,7 +76,7 @@
 
 - [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/grading/problem)
 
-- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Birthday%20Cake%20Candles.cpp)
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Grading%20Students.cpp)
 
 
 <p align ="center">
