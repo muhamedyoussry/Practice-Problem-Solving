@@ -14,41 +14,49 @@ string rtrim(const string &);
  *  2. STRING path
  */
 
-int countingValleys(int steps, string path) {
-    
-    int max_height = 0 ;
-    int min_height = 0 ;
-    int current_height = 0 ;
-    int valleys = 0 ;
-    int mountains = 0 ; 
-    
-    for (int i = 0 ; i < steps ; i++){
-        if (path[i] == 'D') {
-            current_height -= 1 ;
+int countingValleys(int steps, string path)
+{
+
+    int max_height = 0;
+    int min_height = 0;
+    int current_height = 0;
+    int valleys = 0;
+    int mountains = 0;
+
+    for (int i = 0; i < steps; i++)
+    {
+        if (path[i] == 'D')
+        {
+            current_height -= 1;
         }
-        else if (path[i] == 'U'){
-            current_height += 1 ; 
+        else if (path[i] == 'U')
+        {
+            current_height += 1;
         }
 
-        if (current_height > max_height ) {
-            max_height = current_height ;
+        if (current_height > max_height)
+        {
+            max_height = current_height;
         }
-        else if (current_height < min_height) {
-            min_height = current_height ;
+        else if (current_height < min_height)
+        {
+            min_height = current_height;
         }
-        else if (current_height == 0 ) {
-            if (min_height < 0 ) {
-                valleys ++ ;
+        else if (current_height == 0)
+        {
+            if (min_height < 0)
+            {
+                valleys++;
             }
-            else if (max_height > 0 ) {
-                mountains ++ ;
+            else if (max_height > 0)
+            {
+                mountains++;
             }
-            min_height = 0 ;
-            max_height = 0 ; 
-
+            min_height = 0;
+            max_height = 0;
         }
     }
-    return valleys ;
+    return valleys;
 }
 
 int main()
@@ -72,24 +80,24 @@ int main()
     return 0;
 }
 
-string ltrim(const string &str) {
+string ltrim(const string &str)
+{
     string s(str);
 
     s.erase(
         s.begin(),
-        find_if(s.begin(), s.end(), not1(ptr_fun<int, int>(isspace)))
-    );
+        find_if(s.begin(), s.end(), not1(ptr_fun<int, int>(isspace))));
 
     return s;
 }
 
-string rtrim(const string &str) {
+string rtrim(const string &str)
+{
     string s(str);
 
     s.erase(
         find_if(s.rbegin(), s.rend(), not1(ptr_fun<int, int>(isspace))).base(),
-        s.end()
-    );
+        s.end());
 
     return s;
 }

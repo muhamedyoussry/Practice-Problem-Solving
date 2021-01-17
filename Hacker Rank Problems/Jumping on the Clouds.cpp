@@ -5,23 +5,27 @@ using namespace std;
 vector<string> split_string(string);
 
 // Complete the jumpingOnClouds function below.
-int jumpingOnClouds(vector<int> c) {
-    int safe_MoveIndex = 0 ;
-    int jumps_counter = 0 ;
-    int index = 0 ;
-    
-    while (index < c.size()-1 ){
+int jumpingOnClouds(vector<int> c)
+{
+    int safe_MoveIndex = 0;
+    int jumps_counter = 0;
+    int index = 0;
 
-        if (c[index+1] == 0){
-            safe_MoveIndex = index+1 ;
+    while (index < c.size() - 1)
+    {
+
+        if (c[index + 1] == 0)
+        {
+            safe_MoveIndex = index + 1;
         }
-        if (c[index+2] == 0){
-            safe_MoveIndex = index+2 ;
+        if (c[index + 2] == 0)
+        {
+            safe_MoveIndex = index + 2;
         }
-        jumps_counter ++ ;  
-        index = safe_MoveIndex ;
+        jumps_counter++;
+        index = safe_MoveIndex;
     }
-    return jumps_counter ;
+    return jumps_counter;
 }
 
 int main()
@@ -39,7 +43,8 @@ int main()
 
     vector<int> c(n);
 
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < n; i++)
+    {
         int c_item = stoi(c_temp[i]);
 
         c[i] = c_item;
@@ -54,14 +59,16 @@ int main()
     return 0;
 }
 
-vector<string> split_string(string input_string) {
-    string::iterator new_end = unique(input_string.begin(), input_string.end(), [] (const char &x, const char &y) {
+vector<string> split_string(string input_string)
+{
+    string::iterator new_end = unique(input_string.begin(), input_string.end(), [](const char &x, const char &y) {
         return x == y and x == ' ';
     });
 
     input_string.erase(new_end, input_string.end());
 
-    while (input_string[input_string.length() - 1] == ' ') {
+    while (input_string[input_string.length() - 1] == ' ')
+    {
         input_string.pop_back();
     }
 
@@ -71,7 +78,8 @@ vector<string> split_string(string input_string) {
     size_t i = 0;
     size_t pos = input_string.find(delimiter);
 
-    while (pos != string::npos) {
+    while (pos != string::npos)
+    {
         splits.push_back(input_string.substr(i, pos - i));
 
         i = pos + 1;

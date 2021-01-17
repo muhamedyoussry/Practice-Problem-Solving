@@ -5,23 +5,23 @@ using namespace std;
 vector<string> split_string(string);
 
 // Complete the sockMerchant function below.
-int sockMerchant(int n, vector<int> ar) {
+int sockMerchant(int n, vector<int> ar)
+{
     int f[101] = {0};
-    int c=0;
+    int c = 0;
 
     //filling up the frequency array
 
-    for(int i=0;i<n;i++)
+    for (int i = 0; i < n; i++)
         f[ar[i]]++;
 
     //counting the total number of pairs
 
-    for(int i=0 ; i<101 ; i++)
-        c+=f[i]/2;
+    for (int i = 0; i < 101; i++)
+        c += f[i] / 2;
 
     return c;
 }
-
 
 int main()
 {
@@ -38,7 +38,8 @@ int main()
 
     vector<int> ar(n);
 
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < n; i++)
+    {
         int ar_item = stoi(ar_temp[i]);
 
         ar[i] = ar_item;
@@ -53,14 +54,16 @@ int main()
     return 0;
 }
 
-vector<string> split_string(string input_string) {
-    string::iterator new_end = unique(input_string.begin(), input_string.end(), [] (const char &x, const char &y) {
+vector<string> split_string(string input_string)
+{
+    string::iterator new_end = unique(input_string.begin(), input_string.end(), [](const char &x, const char &y) {
         return x == y and x == ' ';
     });
 
     input_string.erase(new_end, input_string.end());
 
-    while (input_string[input_string.length() - 1] == ' ') {
+    while (input_string[input_string.length() - 1] == ' ')
+    {
         input_string.pop_back();
     }
 
@@ -70,7 +73,8 @@ vector<string> split_string(string input_string) {
     size_t i = 0;
     size_t pos = input_string.find(delimiter);
 
-    while (pos != string::npos) {
+    while (pos != string::npos)
+    {
         splits.push_back(input_string.substr(i, pos - i));
 
         i = pos + 1;
