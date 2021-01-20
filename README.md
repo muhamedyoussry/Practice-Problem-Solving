@@ -78,7 +78,20 @@
 
 - [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Grading%20Students.cpp)
 
-
 <p align ="center">
     <img src = 'https://s3.amazonaws.com/hr-challenge-images/0/1484768684-54439977a1-curving2.png'>
+</p>
+
+
+<p>&nbsp;</p>
+
+### **Repeated String**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Grading%20Students.cpp)
+
+
+<p align ="center">
+    <img src = 'https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png' width = "400">
 </p>
