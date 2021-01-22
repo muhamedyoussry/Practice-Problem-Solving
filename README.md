@@ -123,3 +123,16 @@
     <img src = 'https://s3.amazonaws.com/hr-challenge-images/25220/1474218925-f2a791d52c-Appleandorange2.png' width = "500">
 </p>
 
+
+<p>&nbsp;</p>
+
+### **2D Array DS**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Apple%20and%20Orange.cpp)
+
+
+<p align ="center">
+    <img src = 'https://javamonish.files.wordpress.com/2016/08/hourglass.png?w=227'>
+</p>
