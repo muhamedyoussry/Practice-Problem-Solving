@@ -158,7 +158,7 @@
 
 - [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/kangaroo/problem)
 
-- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Array%20Left%20Rotation.cpp)
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Number%20Line%20Jumps.cpp)
 
 
 <p align ="center">
