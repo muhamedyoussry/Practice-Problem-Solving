@@ -130,7 +130,7 @@
 
 - [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
 
-- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Apple%20and%20Orange.cpp)
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/2D%20Array%20-%20DS.cpp)
 
 
 <p align ="center">
