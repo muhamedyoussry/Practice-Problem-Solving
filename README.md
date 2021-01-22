@@ -136,3 +136,17 @@
 <p align ="center">
     <img src = 'https://javamonish.files.wordpress.com/2016/08/hourglass.png?w=227'>
 </p>
+
+
+<p>&nbsp;</p>
+
+### **Array Left Rotation**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/2D%20Array%20-%20DS.cpp)
+
+
+<p align ="center">
+    <img src = 'https://ci3.googleusercontent.com/proxy/QYgOqCjCQVfBnTLnpDGFCpuC0jhxBd_i9YiMJh5KPqkLRLqRpKvpzRvLAc4RtVbeqy6pbBu8iAPaUZPco8UvJ8IxOQ2WSzi8tGkGtY4=s0-d-e1-ft' width ="300">
+</p>
