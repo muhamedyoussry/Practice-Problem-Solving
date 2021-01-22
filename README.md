@@ -95,3 +95,31 @@
 <p align ="center">
     <img src = 'https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png' width = "400">
 </p>
+
+
+<p>&nbsp;</p>
+
+### **Sorting Algorithm : Bubble Sort**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=nutanix)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Repeated%20String.cpp)
+
+
+<p align ="center">
+    <img src = 'https://hackr.io/blog/bubble-sort-in-c/thumbnail/large' width = "350">
+</p>
+
+<p>&nbsp;</p>
+
+### **Apples and Oranges**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/apple-and-orange/problem)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Repeated%20String.cpp)
+
+
+<p align ="center">
+    <img src = 'https://s3.amazonaws.com/hr-challenge-images/25220/1474218925-f2a791d52c-Appleandorange2.png' width = "500">
+</p>
+
