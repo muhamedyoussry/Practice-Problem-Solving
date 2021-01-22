@@ -103,7 +103,7 @@
 
 - [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&playlist_slugs%5B%5D=nutanix)
 
-- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Repeated%20String.cpp)
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Sorting%20Algorithm%20Bubble%20Sort.cpp)
 
 
 <p align ="center">
@@ -116,7 +116,7 @@
 
 - [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/apple-and-orange/problem)
 
-- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Repeated%20String.cpp)
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Apple%20and%20Orange.cpp)
 
 
 <p align ="center">
