@@ -164,3 +164,17 @@
 <p align ="center">
     <img src = 'https://s3.amazonaws.com/hr-assets/0/1516005283-e74e76ff0c-kangaroo.png' width ="500">
 </p>
+
+
+<p>&nbsp;</p>
+
+### **Variable Sized Array**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/variable-sized-arrays/problem)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Number%20Line%20Jumps.cpp)
+
+
+<p align ="center">
+    <img src = 'https://s3.amazonaws.com/hr-challenge-images/14507/1476906485-2c93045320-variable-length-arrays.png' width ="400">
+</p>
