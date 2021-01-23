@@ -192,7 +192,7 @@
 
 - [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
 
-- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/C%2B%2B%20Practice/Variable%20Sized%20Array.cpp)
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/New%20Year%20Chaos.cpp)
 
 
 <p align ="center">
