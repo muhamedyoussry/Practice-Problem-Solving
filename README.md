@@ -151,7 +151,7 @@
     <img src = 'https://ci3.googleusercontent.com/proxy/QYgOqCjCQVfBnTLnpDGFCpuC0jhxBd_i9YiMJh5KPqkLRLqRpKvpzRvLAc4RtVbeqy6pbBu8iAPaUZPco8UvJ8IxOQ2WSzi8tGkGtY4=s0-d-e1-ft' width ="300">
 </p>
 
-
+___
 <p>&nbsp;</p>
 
 ### **Number Line Jumps**
@@ -165,7 +165,7 @@
     <img src = 'https://s3.amazonaws.com/hr-assets/0/1516005283-e74e76ff0c-kangaroo.png' width ="500">
 </p>
 
-
+___ 
 <p>&nbsp;</p>
 
 ### **Variable Sized Array**
