@@ -172,7 +172,7 @@
 
 - [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/variable-sized-arrays/problem)
 
-- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Number%20Line%20Jumps.cpp)
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/C%2B%2B%20Practice/Variable%20Sized%20Array.cpp)
 
 
 <p align ="center">
