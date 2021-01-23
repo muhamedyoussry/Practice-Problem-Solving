@@ -11,10 +11,10 @@
 
 
 <p align ="center">
-    <img src = 'https://s3.amazonaws.com/hr-challenge-images/25168/1474122392-c7b9097430-sock.png' width = "450">
+    <img src = 'https://s3.amazonaws.com/hr-challenge-images/25168/1474122392-c7b9097430-sock.png' width = "250">
 </p>
 
-
+---
 <p>&nbsp;</p>
 
 ### **Counting Valleys**
@@ -25,10 +25,10 @@
 
 
 <p align ="center">
-    <img src = 'https://s3.amazonaws.com/hr-assets/forumImages/1494801329-09a2a46b26-terrain.PNG' width = "450">
+    <img src = 'https://s3.amazonaws.com/hr-assets/forumImages/1494801329-09a2a46b26-terrain.PNG' width = "300">
 </p>
 
-
+---
 <p>&nbsp;</p>
 
 ### **Jumping on the Clouds**
@@ -39,9 +39,10 @@
 
 
 <p align ="center">
-    <img src = 'https://s3.amazonaws.com/hr-challenge-images/20832/1461134731-c258160d15-jump2.png'>
+    <img src = 'https://s3.amazonaws.com/hr-challenge-images/20832/1461134731-c258160d15-jump2.png' width = "150">
 </p>
 
+---
 <p>&nbsp;</p>
 
 ### **Compare the Triplets**
@@ -52,10 +53,10 @@
 
 
 <p align ="center">
-    <img src = 'https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png' width = "400">
+    <img src = 'https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png' width = "250">
 </p>
 
-
+---
 <p>&nbsp;</p>
 
 ### **Birthday Cake Candles**
@@ -66,10 +67,10 @@
 
 
 <p align ="center">
-    <img src = 'https://miro.medium.com/max/4242/1*ry2jF_cpB0WjH2fNCA8nZg.jpeg' width = "400">
+    <img src = 'https://miro.medium.com/max/4242/1*ry2jF_cpB0WjH2fNCA8nZg.jpeg' width = "250">
 </p>
 
-
+---
 <p>&nbsp;</p>
 
 ### **Grading Students**
@@ -79,10 +80,10 @@
 - [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Grading%20Students.cpp)
 
 <p align ="center">
-    <img src = 'https://s3.amazonaws.com/hr-challenge-images/0/1484768684-54439977a1-curving2.png'>
+    <img src = 'https://s3.amazonaws.com/hr-challenge-images/0/1484768684-54439977a1-curving2.png' width = "200">
 </p>
 
-
+---
 <p>&nbsp;</p>
 
 ### **Repeated String**
@@ -93,10 +94,10 @@
 
 
 <p align ="center">
-    <img src = 'https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png' width = "400">
+    <img src = 'https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png' width = "250">
 </p>
 
-
+---
 <p>&nbsp;</p>
 
 ### **Sorting Algorithm : Bubble Sort**
@@ -107,9 +108,10 @@
 
 
 <p align ="center">
-    <img src = 'https://hackr.io/blog/bubble-sort-in-c/thumbnail/large' width = "350">
+    <img src = 'https://hackr.io/blog/bubble-sort-in-c/thumbnail/large' width = "250">
 </p>
 
+---
 <p>&nbsp;</p>
 
 ### **Apples and Oranges**
@@ -120,10 +122,10 @@
 
 
 <p align ="center">
-    <img src = 'https://s3.amazonaws.com/hr-challenge-images/25220/1474218925-f2a791d52c-Appleandorange2.png' width = "500">
+    <img src = 'https://s3.amazonaws.com/hr-challenge-images/25220/1474218925-f2a791d52c-Appleandorange2.png' width = "350">
 </p>
 
-
+---
 <p>&nbsp;</p>
 
 ### **2D Array DS**
@@ -134,10 +136,10 @@
 
 
 <p align ="center">
-    <img src = 'https://javamonish.files.wordpress.com/2016/08/hourglass.png?w=227'>
+    <img src = 'https://javamonish.files.wordpress.com/2016/08/hourglass.png?w=227' width ="150">
 </p>
 
-
+---
 <p>&nbsp;</p>
 
 ### **Array Left Rotation**
@@ -148,10 +150,10 @@
 
 
 <p align ="center">
-    <img src = 'https://ci3.googleusercontent.com/proxy/QYgOqCjCQVfBnTLnpDGFCpuC0jhxBd_i9YiMJh5KPqkLRLqRpKvpzRvLAc4RtVbeqy6pbBu8iAPaUZPco8UvJ8IxOQ2WSzi8tGkGtY4=s0-d-e1-ft' width ="300">
+    <img src = 'https://ci3.googleusercontent.com/proxy/QYgOqCjCQVfBnTLnpDGFCpuC0jhxBd_i9YiMJh5KPqkLRLqRpKvpzRvLAc4RtVbeqy6pbBu8iAPaUZPco8UvJ8IxOQ2WSzi8tGkGtY4=s0-d-e1-ft' width ="200">
 </p>
 
-___
+---
 <p>&nbsp;</p>
 
 ### **Number Line Jumps**
@@ -162,10 +164,10 @@ ___
 
 
 <p align ="center">
-    <img src = 'https://s3.amazonaws.com/hr-assets/0/1516005283-e74e76ff0c-kangaroo.png' width ="500">
+    <img src = 'https://s3.amazonaws.com/hr-assets/0/1516005283-e74e76ff0c-kangaroo.png' width ="300">
 </p>
 
-___ 
+---
 <p>&nbsp;</p>
 
 ### **Variable Sized Array**
@@ -176,5 +178,8 @@ ___
 
 
 <p align ="center">
-    <img src = 'https://s3.amazonaws.com/hr-challenge-images/14507/1476906485-2c93045320-variable-length-arrays.png' width ="400">
+    <img src = 'https://s3.amazonaws.com/hr-challenge-images/14507/1476906485-2c93045320-variable-length-arrays.png' width ="200">
 </p>
+
+
+---
