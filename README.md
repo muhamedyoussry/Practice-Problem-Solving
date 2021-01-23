@@ -5,6 +5,8 @@
 
 ### **Sales by Match**
 
+
+
 - [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup)
 
 - [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Sales%20by%20Match.cpp)
@@ -179,6 +181,22 @@
 
 <p align ="center">
     <img src = 'https://s3.amazonaws.com/hr-challenge-images/14507/1476906485-2c93045320-variable-length-arrays.png' width ="200">
+</p>
+
+
+---
+
+<p>&nbsp;</p>
+
+### **New Year Chaos**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/C%2B%2B%20Practice/Variable%20Sized%20Array.cpp)
+
+
+<p align ="center">
+    <img src = 'https://storage.googleapis.com/course-panel-site-media/images/new-year-chaos.width-1500.jpg' width ="250">
 </p>
 
 
