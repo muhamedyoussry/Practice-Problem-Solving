@@ -201,3 +201,18 @@
 
 
 ---
+
+<p>&nbsp;</p>
+
+### **Minimum Swaps 2**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Minimum%20Swaps2.cpp)
+
+
+<p align ="center">
+    <img src = 'https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png' width = "250">
+</p>
+
+---
