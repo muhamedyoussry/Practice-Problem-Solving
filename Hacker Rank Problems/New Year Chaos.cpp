@@ -20,7 +20,7 @@ void minimumBribes(vector<int> q)
         if (q[i] != ordered[i])
         {
             // 1 2 4 3 7 5 6 8
-            // 1 2 4 3 5 6 7 8
+            // 1 2 3 4 5 6 7 8
             if (q[i] - (i + 1) > 2)
             {
                 cout << "Too chaotic" << endl;

@@ -216,3 +216,18 @@
 </p>
 
 ---
+
+<p>&nbsp;</p>
+
+### **Breaking the Records**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Minimum%20Swaps2.cpp)
+
+
+<p align ="center">
+    <img src = 'https://s3.amazonaws.com/hr-assets/0/1487360375-aee4388234-breakingbest5.png' width = "280">
+</p>
+
+---
