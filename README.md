@@ -231,3 +231,18 @@
 </p>
 
 ---
+
+<p>&nbsp;</p>
+
+### **Subarray Devision**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Subarray%20Division.cpp)
+
+
+<p align ="center">
+    <img src = 'https://s3.amazonaws.com/hr-assets/0/1489060874-a04ddb06cf-choco4.png' width = "200">
+</p>
+
+---
