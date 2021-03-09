@@ -261,3 +261,18 @@
 </p>
 
 ---
+
+<p>&nbsp;</p>
+
+### **Migratory Birds**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/migratory-birds/problem)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Divisible%20Sum%20Pairs.cpp)
+
+
+<p align ="center">
+    <img src = 'https://miro.medium.com/max/1200/1*1Ca1m91HYwC7xO4WpjRKFQ.png' width = "250">
+</p>
+
+---
