@@ -276,3 +276,18 @@
 </p>
 
 ---
+
+<p>&nbsp;</p>
+
+### **Bill Devision**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/bon-appetit/problem)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Migratory%20Birds.cpp)
+
+
+<p align ="center">
+    <img src = 'https://miro.medium.com/max/1000/1*K8Z_CQf7ocySolyHrHxrzA.jpeg' width = "220">
+</p>
+
+---
