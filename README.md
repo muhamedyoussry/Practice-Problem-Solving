@@ -291,3 +291,18 @@
 </p>
 
 ---
+
+<p>&nbsp;</p>
+
+### **Bill Devision**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/drawing-book/problem)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Bill%20Divison.cpp)
+
+
+<p align ="center">
+    <img src = 'https://programmercave0.github.io/assets/2019-12-11-Drawing-Book-HackerRank/HR_drawingbook1.jpg' width = "250">
+</p>
+
+---
