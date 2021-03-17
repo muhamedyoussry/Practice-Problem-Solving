@@ -306,3 +306,18 @@
 </p>
 
 ---
+
+<p>&nbsp;</p>
+
+### **Electronics Shop**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/electronics-shop/problem)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Drawing%20Book.cpp)
+
+
+<p align ="center">
+    <img src = 'https://image.freepik.com/free-photo/silver-colored-usb-stick-shaped-like-key-wooden-table-near-laptop_109710-5007.jpg' width = "250">
+</p>
+
+---
