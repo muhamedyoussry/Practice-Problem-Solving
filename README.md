@@ -313,7 +313,7 @@
 
 - [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/electronics-shop/problem)
 
-- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Drawing%20Book.cpp)
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Electronics%20Shop.cpp)
 
 
 <p align ="center">
