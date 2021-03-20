@@ -321,3 +321,18 @@
 </p>
 
 ---
+
+<p>&nbsp;</p>
+
+### **Cats and Mouse**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Electronics%20Shop.cpp)
+
+
+<p align ="center">
+    <img src = 'https://s3.amazonaws.com/hr-challenge-images/0/1480434477-7418fccf34-cat.png' width = "250">
+</p>
+
+---
