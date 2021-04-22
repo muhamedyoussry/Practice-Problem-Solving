@@ -336,3 +336,18 @@
 </p>
 
 ---
+
+<p>&nbsp;</p>
+
+### **Save the Prisoner!**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Cats%20and%20a%20Mouse.cpp)
+
+
+<p align ="center">
+    <img src = 'https://livecodestream.dev/challenge/save-the-prisoner/featured.jpg' width = "250">
+</p>
+
+---
