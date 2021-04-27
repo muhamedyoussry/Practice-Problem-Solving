@@ -380,3 +380,17 @@
 </p>
 
 ---
+<p>&nbsp;</p>
+
+### **Angry Professor**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/angry-professor/problem)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Utopian%20Tree.cpp)
+
+
+<p align ="center">
+    <img src = 'https://thumbs.dreamstime.com/b/crazy-angry-professor-yelling-pointing-stick-senior-authoritarian-blackboard-traditional-education-concept-138323367.jpg' width = "200">
+</p>
+
+---
