@@ -386,7 +386,7 @@
 
 - [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/angry-professor/problem)
 
-- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Utopian%20Tree.cpp)
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Angry%20Professor.cpp)
 
 
 <p align ="center">
