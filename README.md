@@ -394,3 +394,17 @@
 </p>
 
 ---
+<p>&nbsp;</p>
+
+### **Ice Cream Parlor**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/icecream-parlor/problem)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Angry%20Professor.cpp)
+
+
+<p align ="center">
+    <img src = 'https://www.stephanosterburg.com/assets/images/posts/2019/ice_cream_parlor.jpg' width = "250">
+</p>
+
+---
