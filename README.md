@@ -358,7 +358,7 @@
 
 - [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
 
-- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Save%20the%20Prisoner!.cpp)
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Designer%20PDF%20Viewer.cpp)
 
 
 <p align ="center">
