@@ -351,3 +351,18 @@
 </p>
 
 ---
+
+<p>&nbsp;</p>
+
+### **Designer PDF Viewer**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Save%20the%20Prisoner!.cpp)
+
+
+<p align ="center">
+    <img src = 'https://s3.amazonaws.com/hr-challenge-images/22869/1471640108-6c01750b16-PDF-highighting.png' width = "150">
+</p>
+
+---
