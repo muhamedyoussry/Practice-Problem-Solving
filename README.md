@@ -366,3 +366,17 @@
 </p>
 
 ---
+<p>&nbsp;</p>
+
+### **Utopian Tree**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/utopian-tree/problem)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Designer%20PDF%20Viewer.cpp)
+
+
+<p align ="center">
+    <img src = 'https://images.unsplash.com/photo-1591213595166-82c13a93b1c8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ' width = "200">
+</p>
+
+---
