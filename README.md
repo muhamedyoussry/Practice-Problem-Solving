@@ -400,7 +400,7 @@
 
 - [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/icecream-parlor/problem)
 
-- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Angry%20Professor.cpp)
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Ice%20Cream%20Parlor.cpp)
 
 
 <p align ="center">
