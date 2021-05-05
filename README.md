@@ -414,7 +414,7 @@
 
 - [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/picking-numbers/problem)
 
-- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Ice%20Cream%20Parlor.cpp)
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Picking%20Numbers.cpp)
 
 
 <p align ="center">
