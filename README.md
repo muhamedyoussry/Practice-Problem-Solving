@@ -443,7 +443,7 @@
 
 - [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/array-left-rotation/problem)
 
-- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Sparse%20Arrays.cpp)
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Left%20Rotation.cpp)
 
 
 <p align ="center">
