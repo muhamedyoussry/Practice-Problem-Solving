@@ -447,7 +447,7 @@
 
 
 <p align ="center">
-    <img src = 'https://i.ytimg.com/vi/WYWx0oZQstk/maxresdefault.jpg ' width = "225">
+    <img src = 'https://i.ytimg.com/vi/WYWx0oZQstk/maxresdefault.jpg' width = "225">
 </p>
 
 ---
