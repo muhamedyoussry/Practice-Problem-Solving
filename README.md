@@ -462,8 +462,7 @@
 
 
 <p align ="center">
-    <img src = 'https://blog.kakaocdn.net/dn/nBSWc/btqw7v1Ic3G/XhvgbM2xDzeMjm6bOxK4QK/img.jpg
-' width = "300">
+    <img src = 'https://blog.kakaocdn.net/dn/nBSWc/btqw7v1Ic3G/XhvgbM2xDzeMjm6bOxK4QK/img.jpg' width = "300">
 </p>
 
 ---
