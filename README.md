@@ -451,3 +451,19 @@
 </p>
 
 ---
+
+<p>&nbsp;</p>
+
+### **Balanced Brackets**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/balanced-brackets/problem)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Balanced%20Brackets.cpp)
+
+
+<p align ="center">
+    <img src = 'https://blog.kakaocdn.net/dn/nBSWc/btqw7v1Ic3G/XhvgbM2xDzeMjm6bOxK4QK/img.jpg
+' width = "300">
+</p>
+
+---
