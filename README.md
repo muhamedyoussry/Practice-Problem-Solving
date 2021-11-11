@@ -466,3 +466,18 @@
 </p>
 
 ---
+
+<p>&nbsp;</p>
+
+### **Plus Minus**
+
+- [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/problem?h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-one)
+
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Plus%20Minus.py)
+
+
+<p align ="center">
+    <img src = 'https://hrcdn.net/hackerrank/assets/hackerrank_default_og.jpg' width = "300">
+</p>
+
+---
