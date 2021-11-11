@@ -489,7 +489,7 @@
 
 - [Problem Summary from Hacker Rank](https://www.hackerrank.com/challenges/one-week-preparation-kit-mini-max-sum/problem?h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-one)
 
-- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Python%20Hacker%20Rank%20problems/Plus%20Minus.py)
+- [Code implementation](https://github.com/muhamedyoussry/Practice-Problem-Solving/blob/master/Hacker%20Rank%20Problems/Python%20Hacker%20Rank%20problems/Mini-Max%20Sum.py)
 
 
 <p align ="center">
