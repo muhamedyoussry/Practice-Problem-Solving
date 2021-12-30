@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-#include <vector>
 
 using namespace std;
 void plusMinus(vector<int> arr)
@@ -36,7 +35,6 @@ int main()
     vector<int> Myarr(n);
     for (int i = 0; i < n; i++)
     {
-        int x = 0;
         cin >> Myarr[i];
     }
     plusMinus(Myarr);
